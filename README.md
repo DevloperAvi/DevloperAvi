@@ -29,4 +29,66 @@ When I am not coding, I enjoy playing games like [GTA 5] and spending time with 
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
+## Skills
+
+- **Front-End Development**:
+  - React
+  - Angular
+  - Vue.js
+  - TypeScript
+  - Bootstrap
+  - Sass/SCSS
+  - Responsive Web Design
+  - Cross-Browser Compatibility
+  - Web Accessibility (WCAG)
+  - Performance Optimization
+  - Front-End Build Tools (Webpack, Gulp, etc.)
+  - Version Control (Git)
+  
+- **UI/UX Design**:
+  - Wireframing and Prototyping
+  - User Research and Analysis
+  - UI Design Principles
+  - Design Tools (Adobe XD, Sketch, Figma)
+  - Usability Testing
+  
+- **Web Design**:
+  - Visual Design Principles
+  - Color Theory
+  - Typography
+  - Layout and Composition
+  - Graphic Design Tools (Photoshop, Illustrator)
+  
+- **Front-End Testing**:
+  - Unit Testing (Jest, Mocha, Jasmine)
+  - End-to-End Testing (Cypress, Selenium)
+  - Test-Driven Development (TDD)
+  
+- **Performance Optimization**:
+  - Website Speed Optimization
+  - Caching Strategies
+  - Code Minification
+  - Image Optimization
+  
+- **UI Frameworks/Libraries**:
+  - Material-UI
+  - Ant Design
+  - Bulma
+  - Tailwind CSS
+  
+- **Front-End Workflow**:
+  - Agile Development
+  - Scrum
+  - Continuous Integration and Deployment (CI/CD)
+  
+- **Additional Skills**:
+  - RESTful APIs
+  - GraphQL
+  - Single-Page Applications (SPAs)
+  - Progressive Web Apps (PWAs)
+  - SEO Basics
+  - Debugging and Troubleshooting
+  - Problem-Solving Skills
+  - Communication Skills
+
 
