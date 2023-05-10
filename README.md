@@ -4,13 +4,43 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=660&height=100&lines=Front-end+Developer+|+UI+/+UX+|+Web+Design,;Bachelors+Of+Computer+Application;India"></a>
 </p>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <style>
+    #about-me {
+      color: #ff00ff; /* Set the initial font color */
+    }
+    
+    .animated-text {
+      animation: changeColor 3s infinite; /* Apply animation to change color every 3 seconds */
+    }
+    
+    @keyframes changeColor {
+      0% {
+        color: #ff00ff; /* Initial color */
+      }
+      50% {
+        color: #00ffff; /* Intermediate color */
+      }
+      100% {
+        color: #ff00ff; /* Final color */
+      }
+    }
+  </style>
+</head>
+<body>
+  <h2 id="about-me">About Me</h2>
+  <p id="about-description">I'm Arvind Sahu, a frontend developer passionate about creating engaging and user-friendly websites. With a strong focus on continuous learning and experimentation, I constantly explore new tools and frameworks to enhance my skills.</p>
 
- I am a frontend developer who is passionate about creating engaging and user-friendly websites. I am a technology enthusiast, and I love exploring new tools and frameworks to improve my skills. As a self-taught developer, I am dedicated to continuous learning and experimenting with different techniques to enhance my expertise.
+  <script>
+    // Add the "animated-text" class to the heading to trigger the animation
+    document.getElementById("about-me").classList.add("animated-text");
+  </script>
+</body>
+</html>
 
-Working in a team environment is one of my strengths, and I enjoy collaborating with other creative minds to achieve project goals. With my strong communication skills, I can effectively express my ideas and seek assistance when needed, ensuring that project deadlines are always met.
-
-When I am not coding, I enjoy playing games like [GTA 5] and spending time with family and friends. Overall, I am a dedicated and passionate frontend developer who is committed to delivering high-quality work and staying up-to-date with the latest web development trends and technologies.
 <br>
 <br>
 
