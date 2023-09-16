@@ -5,42 +5,7 @@
 </p>
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-# About Me README
 
-This is a simple example that demonstrates how to create an animated text effect for an "About Me" section using HTML, CSS, and JavaScript.
-
-## Getting Started
-
-To get started, simply save the code snippet in an HTML file and open it in a web browser. The animated text effect will be applied to the "About Me" heading.
-
-### Prerequisites
-
-No prerequisites are required for this example.
-
-## How It Works
-
-The HTML file contains a heading element with the ID "about-me" and a paragraph element with the ID "about-description". The CSS styles the heading with an initial font color and applies an animation to change the color every 3 seconds. The JavaScript code adds the "animated-text" class to the heading, triggering the animation.
-
-## Customization
-
-Feel free to customize the font colors, animation duration, and other aspects of the code to suit your preferences. You can modify the CSS styles or adjust the JavaScript code as needed.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-<br>
-<br>
-
----
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<br>   
     
 - **Front-End Development**:
 
