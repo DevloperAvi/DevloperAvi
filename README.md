@@ -1,71 +1,60 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm <b>Arvind Sahu</b></h1>
-<h3 align="center">🚀 Front-End Developer | 🎨 UI/UX Enthusiast | 🌐 Web Designer</h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Front-end+Developer;UI+/+UX+Designer;BCA+Graduate;Tech+Explorer+from+India" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">Front-End Developer | UI/UX Enthusiast | Web Designer</h3>
 
 ---
 
-## 🧑‍💻 About Me
-- 💻 Passionate about building **modern, responsive, and user-friendly web applications**  
-- 🎨 Love designing clean **UI/UX interfaces** with a focus on accessibility  
-- 📚 Currently exploring **advanced front-end frameworks & design systems**  
-- 🌍 Based in **India**  
+## 👨‍💻 About Me  
+- 💻 Building **modern, responsive, and user-friendly web applications**  
+- 🎨 Focused on **clean UI/UX design** with accessibility standards  
+- 📚 Exploring **React, Angular, Vue, and design systems**  
+- 🎓 **BCA Graduate** | Based in **India**  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills  
 
-### **Front-End Development**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### **Frontend Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **UI/UX Design**
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-%23FF26BE?style=flat-square&logo=adobe-xd&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)
+### **UI/UX & Design**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/AdobeXD-FF26BE?style=for-the-badge&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
 
-### **Testing & Performance**
-- ✅ Unit Testing (Jest, Mocha, Jasmine)  
-- ✅ End-to-End Testing (Cypress, Selenium)  
-- ✅ Performance Optimization (Caching, Minification, Image Optimization)
-
-### **Workflow & Tools**
-- Git / GitHub  
+### **Workflow & Tools**  
+- Git & GitHub  
 - Agile & Scrum  
 - CI/CD Pipelines  
-- REST APIs / GraphQL  
+- REST APIs & GraphQL  
+- Testing: Jest | Cypress | Selenium  
 
 ---
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAvi&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAvi&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/ArvindSahuAvi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/arvind-sahu-avi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:arvindsahuavi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAvi&show_icons=true&theme=default" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAvi&layout=compact&theme=default" height="160px"/>
 </p>
 
 ---
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://github.com/ArvindSahuAvi"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arvind-sahu-avi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arvindsahuavi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+📌 *"Great design is born of simplicity and clarity."*  
