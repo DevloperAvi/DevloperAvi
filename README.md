@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm <b>Arvind Sahu</b></h1>
-<h3 align="center">Front-End Developer | UI/UX Enthusiast | Web Designer</h3>
+<h1 align="center" style="color:#00C4FF;">Hi, I'm <b>Arvind Sahu</b></h1>
+<h3 align="center" style="color:#38B2AC;">Front-End Developer | UI/UX Enthusiast | Web Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Front-end+Developer;UI%2FUX+Designer;BCA+Graduate;Tech+Explorer+from+India" alt="Typing Animation" />
@@ -8,51 +8,38 @@
 
 ---
 
-## Profile  
-BCA graduate and **Front-End Developer** with a strong background in building **responsive, accessible, and user-friendly web applications**.  
-Skilled in **JavaScript frameworks** and **UI/UX design principles**, with a focus on **clean design & performance**.  
-Driven to transform **designs into code** that deliver seamless digital experiences.  
+## <span style="color:#FFB400;">Profile</span>  
+BCA graduate and <b style="color:#00C4FF;">Front-End Developer</b> with a strong background in building <b style="color:#38B2AC;">responsive, accessible, and user-friendly</b> web applications.  
+Skilled in <b style="color:#F7DF1E;">JavaScript frameworks</b> and <b style="color:#FF6F91;">UI/UX design principles</b>, with a focus on <b style="color:#A3E635;">clean design & performance</b>.  
+Driven to transform <b style="color:#FF4C29;">designs into code</b> that deliver seamless digital experiences.  
 
 ---
 
-## Skills  
+## <span style="color:#FFB400;">Skills</span>  
 
-### Frontend Development  
+### <span style="color:#00C4FF;">Frontend Development</span>  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### UI/UX & Design  
+### <span style="color:#38B2AC;">UI/UX & Design</span>  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF26BE?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
-
-### Tools & Workflow  
-- Git, GitHub, Agile & Scrum  
-- REST APIs, GraphQL  
-- Testing – Jest, Cypress, Selenium  
-- Performance Optimization (Caching, Minification, Image Optimization)  
 
 ---
 
-## Projects  
+## <span style="color:#FFB400;">Projects</span>  
 
-- **Portfolio Website** – React + TailwindCSS portfolio showcasing projects and designs.  
-- **E-commerce Frontend** – Responsive shopping interface with cart, filters & modern UI.  
-- **UI/UX Case Studies** – Figma prototypes and wireframes for accessible user journeys.  
-
-*(Add repo/demo links for maximum impact!)*  
+- <b style="color:#00C4FF;">Portfolio Website</b> – React + TailwindCSS portfolio showcasing projects and designs.  
+- <b style="color:#38B2AC;">E-commerce Frontend</b> – Responsive shopping interface with cart, filters & modern UI.  
+- <b style="color:#FF6F91;">UI/UX Case Studies</b> – Figma prototypes and wireframes for accessible user journeys.  
 
 ---
 
-## GitHub Insights  
+## <span style="color:#FFB400;">GitHub Insights</span>  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperAvi&theme=tokyonight&hide_border=true" height="180px"/>
@@ -65,7 +52,7 @@ Driven to transform **designs into code** that deliver seamless digital experien
 
 ---
 
-## Connect with Me  
+## <span style="color:#FFB400;">Connect with Me</span>  
 
 <p align="center">
   <a href="https://github.com/ArvindSahuAvi"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -75,4 +62,4 @@ Driven to transform **designs into code** that deliver seamless digital experien
 
 ---
 
-<p align="center"><i>“Great design is born of simplicity and clarity.”</i></p>
+<p align="center"><i style="color:#38B2AC;">“Great design is born of simplicity and clarity.”</i></p>
