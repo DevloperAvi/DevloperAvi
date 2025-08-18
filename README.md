@@ -9,9 +9,13 @@
 ---
 
 ## <span style="color:#FFB400;">Profile</span>  
-BCA graduate and <b style="color:#00C4FF;">Front-End Developer</b> with a strong background in building <b style="color:#38B2AC;">responsive, accessible, and user-friendly</b> web applications.  
-Skilled in <b style="color:#F7DF1E;">JavaScript frameworks</b> and <b style="color:#FF6F91;">UI/UX design principles</b>, with a focus on <b style="color:#A3E635;">clean design & performance</b>.  
-Driven to transform <b style="color:#FF4C29;">designs into code</b> that deliver seamless digital experiences.  
+BCA graduate and **<span style="color:#00C4FF;">Front-End Developer</span>** with expertise in building  
+**<span style="color:#38B2AC;">responsive</span>**, **<span style="color:#FF6F91;">accessible</span>**, and **user-friendly** web applications.  
+
+Skilled in **<span style="color:#F7DF1E;">JavaScript frameworks</span>** and **<span style="color:#FF6F91;">UI/UX design principles</span>**,  
+focused on **<span style="color:#A3E635;">clean design & performance</span>**.  
+
+Dedicated to transforming **<span style="color:#FF4C29;">designs into code</span>** that deliver seamless digital experiences.  
 
 ---
 
@@ -23,6 +27,7 @@ Driven to transform <b style="color:#FF4C29;">designs into code</b> that deliver
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### <span style="color:#38B2AC;">UI/UX & Design</span>  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -33,20 +38,39 @@ Driven to transform <b style="color:#FF4C29;">designs into code</b> that deliver
 
 ## <span style="color:#FFB400;">Projects</span>  
 
-- <b style="color:#00C4FF;">Portfolio Website</b> – React + TailwindCSS portfolio showcasing projects and designs.  
-- <b style="color:#38B2AC;">E-commerce Frontend</b> – Responsive shopping interface with cart, filters & modern UI.  
-- <b style="color:#FF6F91;">UI/UX Case Studies</b> – Figma prototypes and wireframes for accessible user journeys.  
+<table>
+<tr>
+<td>
+<b style="color:#00C4FF;">Portfolio Website</b><br/>
+Personal portfolio built with React + TailwindCSS showcasing my projects & skills.  
+<a href="https://github.com/ArvindSahuAvi/portfolio"><img src="https://img.shields.io/badge/View%20Project-38B2AC?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>
+<b style="color:#38B2AC;">E-commerce Frontend</b><br/>
+Responsive shopping interface with cart, filters, and modern UI design.  
+<a href="https://github.com/ArvindSahuAvi/ecommerce"><img src="https://img.shields.io/badge/View%20Project-00C4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>
+<b style="color:#FF6F91;">UI/UX Case Studies</b><br/>
+Figma prototypes & wireframes designed for accessible user journeys.  
+<a href="https://www.figma.com/@arvind"><img src="https://img.shields.io/badge/View%20Designs-FF4C29?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
 ## <span style="color:#FFB400;">GitHub Insights</span>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperAvi&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAvi&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperAvi&theme=tokyonight&hide_border=true" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAvi&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
