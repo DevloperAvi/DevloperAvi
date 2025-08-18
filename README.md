@@ -3,14 +3,30 @@
 <h3 align="center" style="color:#38B2AC;">Front-End Developer • UI/UX Enthusiast • Web Designer</h3>
 
 ---
+## About Me
 
-## About Me  
-I am a **BCA Graduate** and **<span style="color:#00C4FF;">Front-End Developer</span>** passionate about crafting  
-**<span style="color:#38B2AC;">responsive</span>**, **accessible**, and **user-centric** web experiences.  
+<p>
+  I am a <strong>BCA Graduate</strong> and a <strong><span style="color:#00C4FF;">Front-End Developer</span></strong> committed to crafting
+  <strong><span style="color:#38B2AC;">responsive</span></strong>, <strong>accessible</strong>, and <strong>user-centric</strong> digital experiences.
+</p>
 
-I enjoy turning **ideas into interactive interfaces**, blending  
-**<span style="color:#F7DF1E;">modern JavaScript frameworks</span>** with **<span style="color:#FF6F91;">UI/UX design principles</span>**.  
-My goal is to deliver digital products that balance **<span style="color:#A3E635;">performance</span>** and **clarity**.  
+<p>
+  I specialize in converting <strong>concepts into polished, production-ready interfaces</strong>, combining
+  <strong><span style="color:#F7DF1E;">modern JavaScript frameworks</span></strong> with thoughtful
+  <strong><span style="color:#FF6F91;">UI/UX design strategies</span></strong>. My work emphasizes
+  <strong><span style="color:#A3E635;">performance</span></strong>, <strong>clarity</strong>, and <strong>scalability</strong>.
+</p>
+
+<ul>
+  <li><strong>Primary focus:</strong> Component-driven UI, responsive layouts, and accessibility best practices.</li>
+  <li><strong>Approach:</strong> Design-led development — rapid prototyping, iterative testing, and measurable outcomes.</li>
+  <li><strong>Deliverables:</strong> Clean code, well-documented components, and maintainable front-end architecture.</li>
+</ul>
+
+<p>
+  <em style="color:#38B2AC;">Available for collaborations, freelance projects, and front-end roles. Let’s build intuitive products that scale.</em>
+</p>
+
 
 ---
 
