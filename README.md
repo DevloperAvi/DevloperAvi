@@ -40,13 +40,6 @@ Dedicated to transforming **<span style="color:#FF4C29;">designs into code</span
 
 ---
 
-## <span style="color:#FFB400;">GitHub Insights</span>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAvi&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperAvi&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAvi&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
 
 ---
 
