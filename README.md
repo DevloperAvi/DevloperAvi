@@ -44,6 +44,15 @@
 
 
 ---
+## 🔗 Demo Project (Visual Preview)
+
+### 🚀 PROGRESS - Quiz Web App
+
+[![PROGRESS Demo](https://devloperavi.github.io/PROGRESS/assets/preview.png)](https://devloperavi.github.io/PROGRESS/)
+
+> A user-friendly quiz web app featuring MCQ, True/False, and Fill-in-the-blank questions with admin-controlled JSON upload.  
+> **Built with:** HTML, CSS, JavaScript
+
 
 ## <span style="color:#FFB400;">Connect with Me</span>  
 
