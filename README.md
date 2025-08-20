@@ -48,7 +48,7 @@
 
 ### 🚀 PROGRESS - Quiz Web App
 
-[![PROGRESS Demo](https://image.thum.io/get/https://devloperavi.github.io/PROGRESS/)](https://devloperavi.github.io/PROGRESS/)
+(https://image.thum.io/get/https://devloperavi.github.io/PROGRESS/)](https://devloperavi.github.io/PROGRESS/)
 
 
 > A user-friendly quiz web app featuring MCQ, True/False, and Fill-in-the-blank questions with admin-controlled JSON upload.  
