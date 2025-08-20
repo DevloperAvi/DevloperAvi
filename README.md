@@ -39,11 +39,6 @@
 ---
 
 
-
----
-
-
----
 ## 🔗 Demo Project (Visual Preview)
 
 ### 🚀 PROGRESS - Quiz Web App
