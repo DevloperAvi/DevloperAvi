@@ -36,33 +36,7 @@ Dedicated to transforming **<span style="color:#FF4C29;">designs into code</span
 
 ---
 
-## <span style="color:#FFB400;">Projects</span>  
 
-<table>
-<tr>
-<td>
-<b style="color:#00C4FF;">Portfolio Website</b><br/>
-Personal portfolio built with React + TailwindCSS showcasing my projects & skills.  
-<a href="https://github.com/ArvindSahuAvi/portfolio"><img src="https://img.shields.io/badge/View%20Project-38B2AC?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-</tr>
-
-<tr>
-<td>
-<b style="color:#38B2AC;">E-commerce Frontend</b><br/>
-Responsive shopping interface with cart, filters, and modern UI design.  
-<a href="https://github.com/ArvindSahuAvi/ecommerce"><img src="https://img.shields.io/badge/View%20Project-00C4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-</tr>
-
-<tr>
-<td>
-<b style="color:#FF6F91;">UI/UX Case Studies</b><br/>
-Figma prototypes & wireframes designed for accessible user journeys.  
-<a href="https://www.figma.com/@arvind"><img src="https://img.shields.io/badge/View%20Designs-FF4C29?style=for-the-badge&logo=figma&logoColor=white"/></a>
-</td>
-</tr>
-</table>
 
 ---
 
