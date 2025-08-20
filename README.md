@@ -8,14 +8,16 @@
 
 ---
 
-## <span style="color:#FFB400;">Profile</span>  
-BCA graduate and **<span style="color:#00C4FF;">Front-End Developer</span>** with expertise in building  
-**<span style="color:#38B2AC;">responsive</span>**, **<span style="color:#FF6F91;">accessible</span>**, and **user-friendly** web applications.  
+🎓 **BCA Graduate** with a focus on modern web development
 
-Skilled in **<span style="color:#F7DF1E;">JavaScript frameworks</span>** and **<span style="color:#FF6F91;">UI/UX design principles</span>**,  
-focused on **<span style="color:#A3E635;">clean design & performance</span>**.  
+💻 **Front-End Developer** skilled in:
+- Responsive design  
+- Accessible interfaces  
+- Performance-focused applications
 
-Dedicated to transforming **<span style="color:#FF4C29;">designs into code</span>** that deliver seamless digital experiences.  
+🎨 Strong understanding of **UI/UX principles** and **JavaScript frameworks**
+
+✨ Committed to writing **clean code** and delivering **pixel-perfect** experiences
 
 ---
 
