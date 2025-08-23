@@ -41,14 +41,10 @@
 - Revenue Model: School subscriptions, freemium premium upgrades, CSR/NGO partnerships  
 - Impact: Prepares teenagers for informed academic and professional choices  
 
-### 🚀 PROGRESS - Quiz Web App
-
-(https://devloperavi.github.io/PROGRESS/)
-[GitHub Repo](https://github.com/DevloperAvi/PROGRESS)
-
-> A user-friendly quiz web app featuring MCQ, True/False, and Fill-in-the-blank questions with admin-controlled JSON upload.  
-> **Built with:** HTML, CSS, JavaScript
-
+### 🚧 Work in Progress  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Work in Progress Animation"/>
+</p>
 
 ## <span style="color:#FFB400;">Connect with Me</span>  
 
