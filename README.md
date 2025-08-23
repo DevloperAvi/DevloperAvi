@@ -44,7 +44,9 @@
 ### 🚧 Work in Progress  
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Work in Progress Animation"/>
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="250" alt="Under Construction"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300" alt="Work in Progress"/>
 </p>
 </p>
 
