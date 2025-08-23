@@ -2,14 +2,14 @@
 
 🎓 **BCA Graduate** with a focus on modern web development
 
-💻 **Front-End Developer** skilled in:
+ **Front-End Developer** skilled in:
 - Responsive design  
 - Accessible interfaces  
 - Performance-focused applications
 
-🎨 Strong understanding of **UI/UX principles** and **JavaScript frameworks**
+ Strong understanding of **UI/UX principles** and **JavaScript frameworks**
 
-✨ Committed to writing **clean code** and delivering **pixel-perfect** experiences
+ Committed to writing **clean code** and delivering **pixel-perfect** experiences
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## 🛠 Real-World Project
 
-### 🚀 Career Guidance & Personality Development App (Ages 12–16)  
+###  Career Guidance & Personality Development App (Ages 12–16)  
 > A digital platform helping school students explore careers, build self-awareness, and develop 21st-century skills.  
 > The app offers personalized career recommendations, personality development exercises, and skill-building modules, supporting students, parents, and schools alike.  
 > **Built with:** React Native (frontend), Firebase (backend), TailwindCSS (UI), AI-driven recommendation engine  
