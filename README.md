@@ -40,6 +40,16 @@
 
 
 ## 🔗 Demo Project (Visual Preview)
+## 🔗 Real-World Projects
+
+### 🚀 Career Guidance & Personality Development App (Ages 12–16)  
+> A digital platform helping school students explore careers, build self-awareness, and develop 21st-century skills.  
+> The app offers personalized career recommendations, personality development exercises, and skill-building modules, supporting students, parents, and schools alike.  
+> **Built with:** React Native (frontend), Firebase (backend), TailwindCSS (UI), AI-driven recommendation engine  
+
+- Core Value: Early career clarity, student confidence, and future readiness  
+- Revenue Model: School subscriptions, freemium premium upgrades, CSR/NGO partnerships  
+- Impact: Prepares teenagers for informed academic and professional choices  
 
 ### 🚀 PROGRESS - Quiz Web App
 
