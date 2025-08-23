@@ -1,12 +1,4 @@
-<!-- Header -->
-<h1 align="center" style="color:#00C4FF;">Hi, I'm <b>Arvind Sahu</b></h1>
-<h3 align="center" style="color:#38B2AC;">Front-End Developer | UI/UX Enthusiast | Web Designer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Front-end+Developer;UI%2FUX+Designer;BCA+Graduate;Tech+Explorer+from+India" alt="Typing Animation" />
-</p>
-
----
 
 🎓 **BCA Graduate** with a focus on modern web development
 
