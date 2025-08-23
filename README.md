@@ -38,8 +38,7 @@
 
 ---
 
-## 🔗 Real-World Projects
-
+## 🛠 Real-World Project
 ### 🚀 Career Guidance & Personality Development App (Ages 12–16)  
 > A digital platform helping school students explore careers, build self-awareness, and develop 21st-century skills.  
 > The app offers personalized career recommendations, personality development exercises, and skill-building modules, supporting students, parents, and schools alike.  
