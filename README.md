@@ -38,8 +38,6 @@
 
 ---
 
-
-## 🔗 Demo Project (Visual Preview)
 ## 🔗 Real-World Projects
 
 ### 🚀 Career Guidance & Personality Development App (Ages 12–16)  
