@@ -32,7 +32,7 @@
 
 ## 🛠 Real-World Project
 
-###  Career Guidance & Personality Development App (Ages 12–16)  
+###  Career Guidance & Personality Development App   
 > A digital platform helping school students explore careers, build self-awareness, and develop 21st-century skills.  
 > The app offers personalized career recommendations, personality development exercises, and skill-building modules, supporting students, parents, and schools alike.  
 > **Built with:** React Native (frontend), Firebase (backend), TailwindCSS (UI), AI-driven recommendation engine  
