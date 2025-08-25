@@ -10,7 +10,7 @@
  Strong understanding of **UI/UX principles** and **JavaScript frameworks**
 
  Committed to writing **clean code** and delivering **pixel-perfect** experiences
-
+ Master of Code Global United States
 ---
 
 ## <span style="color:#FFB400;">Skills</span>  
