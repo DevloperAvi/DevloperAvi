@@ -45,10 +45,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Work in Progress Animation"/>
 
-COMPANY-Master of Code Global
-United States
-541 Jefferson Ave, Suite 100 Redwood City, CA 94063
-+1 408-663-1363
+
 </p>
 
 </p>
